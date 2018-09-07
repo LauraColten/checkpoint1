@@ -1,0 +1,11 @@
+body {
+  background-image: url("./SphynxinScarf.png");
+  height: 100vh;
+}
+
+button {
+  color: purple;
+  border: transparent;
+  font-size: 40px;
+  background-color: transparent;
+}
